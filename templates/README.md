@@ -1,4 +1,0 @@
-# datasciencedjw
-## Website Purpose
-
-## Pages
